@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion17\\sesion17g3\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|solutionrelative:modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion17\\sesion17g3\\formularios\\productosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|solutionrelative:formularios\\productosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion17\\sesion17g3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion17\\sesion17g3\\formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|solutionrelative:formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion17\\sesion17g3\\formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|solutionrelative:formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion17\\sesion17g3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion17\\sesion17g3\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|solutionrelative:servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|c:\\users\\labc205\\desktop\\semestreiied\\sesion17\\sesion17g3\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8F4AB1-9AC4-4E63-A6D8-839FF5A9862C}|Sesion17G3.csproj|solutionrelative:modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosFrm.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Formularios\\ProductosFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\ProductosFrm.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Formularios\\ProductosFrm.cs",
+              "RelativeToolTip": "Formularios\\ProductosFrm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:46:28.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Formularios\\Form1.cs",
+              "RelativeDocumentMoniker": "Formularios\\Form1.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Formularios\\Form1.cs",
+              "RelativeToolTip": "Formularios\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:40:55.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Formularios\\Form1.cs",
+              "RelativeDocumentMoniker": "Formularios\\Form1.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Formularios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:40:21.892Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:17:04.623Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "ProductoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Servicios\\ProductoServicio.cs",
+              "RelativeDocumentMoniker": "Servicios\\ProductoServicio.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Servicios\\ProductoServicio.cs",
+              "RelativeToolTip": "Servicios\\ProductoServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:23:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Modelos\\Producto.cs",
               "RelativeDocumentMoniker": "Modelos\\Producto.cs",
               "ToolTip": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Modelos\\Producto.cs",
               "RelativeToolTip": "Modelos\\Producto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T13:19:58.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\SemestreIIEd\\Sesion17\\Sesion17G3\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
